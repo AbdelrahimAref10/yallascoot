@@ -1,0 +1,2 @@
+D:\Projects\Volt\Volt.client\obj\Debug\Volt.client.esproj.CoreCompileInputs.cache
+D:\Projects\YallaScoot\Volt.client\obj\Debug\Volt.client.esproj.CoreCompileInputs.cache
